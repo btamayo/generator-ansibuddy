@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Bianca Tamayo",
+      "authorEmail": "hi@biancatamayo.me",
+      "authorUrl": "https://github.com/btamayo/ansibuddy"
+    }
+  }
+}
